@@ -14,15 +14,13 @@ Problems being addressed:
 
 Subproblems being addressed:
 	Our solution mainly includes these  components
-      1).
-      Evaluation of the scenario and effective evacuation strategy finding by considering roadblocks, river overruns. It             includes computation of the nearest relief place with shortest time.the area is mapped as a graph and every update can be       kept track to reroute effectively and making the evacuation more productive thereby saving thousands of lives.
-      2).
-      As a precautionary measure we can evaluate the current rain scenario and river flow rates and find out all the low lying       areas around the river to evacuate the areas using the altitude data of the river, previous history which is likely to         be flooded with this rainfall rate and evacuate the area , preventing the problem.
+      1. Evaluation of the scenario and effective evacuation strategy finding by considering roadblocks, river overruns. It      includes computation of the nearest relief place with shortest time.the area is mapped as a graph and every update can be kept track to reroute effectively and making the evacuation more productive thereby saving thousands of lives.
+      2. As a precautionary measure we can evaluate the current rain scenario and river flow rates and find out all the low lying areas around the river to evacuate the areas using the altitude data of the river, previous history which is likely to   be flooded with this rainfall rate and evacuate the area , preventing the problem.
       
       
   Technologies being used:
-  	1).Tensorflow/keras
-	2).Graph algorothms, modifed Dijkstra and Prim's algorithms.
-	3).Microsoft Vision API.
-	4).Google Maps.
-	5).Microsft Azure.
+  	* Tensorflow/keras
+	* Graph algorithms, modifed Dijkstra and Prim's algorithms.
+	* Microsoft Vision API.
+	* Google Maps.
+	* Microsft Azure.
